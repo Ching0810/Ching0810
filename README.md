@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Ching0810
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My email address: neinchin123@gmail.com, please feel free if you would like to contact me :)
+- 🌱 I’m currently learning skill including:
+  - JavaScript
+  - CSS, SCSS, HTML
+  - Node.js
+  - Express
+  - React
 
 <!---
 Ching0810/Ching0810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
