@@ -5,6 +5,7 @@
   - CSS, SCSS, HTML
   - Node.js
   - Express
+  - Handlebar
   - React
 
 <!---
