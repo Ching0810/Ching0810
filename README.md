@@ -7,6 +7,7 @@
   - Express
   - Handlebar
   - React
+  - Tailwind
 
 <!---
 Ching0810/Ching0810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
