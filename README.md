@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ching0810
+- 👋 Hi, I’m forntend developer, Ching
 - 📫 My email address: neinchin123@gmail.com, please feel free if you would like to contact me :)
 - 🌱 I’m currently learning skill including:
   - JavaScript, HTML, CSS
