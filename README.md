@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @Ching0810
 - 📫 My email address: neinchin123@gmail.com, please feel free if you would like to contact me :)
 - 🌱 I’m currently learning skill including:
-  - JavaScript
-  - CSS, SCSS, HTML
+  - JavaScript, HTML, CSS
+  - React
+  - SCSS
+  - Bootstrap
   - Node.js
   - Express
   - Handlebar
-  - React
   - Tailwind
 
 <!---
