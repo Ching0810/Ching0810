@@ -1,6 +1,6 @@
 - 👋 Hi, I’m forntend developer, Ching
 - 📫 My email address: neinchin123@gmail.com, please feel free if you would like to contact me :)
-- 🌱 I’m currently learning skill including:
+- 🌱 My skills:
   - JavaScript, HTML, CSS
   - React
   - SCSS
@@ -8,7 +8,7 @@
   - Node.js
   - Express
   - Handlebar
-  - Tailwind
+  - MUI
 
 <!---
 Ching0810/Ching0810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
